@@ -47,11 +47,14 @@
 - ☁️ Cloud & DevOps Basics  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MBilal26&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=codeBilal-exe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=MBilal26&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=codeBilal-exe&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MBilal26&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeBilal-exe&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+![](https://visitcount.itsvg.in/api?id=codeBilal-exe&icon=5&color=6)
 
 # 🏆 Goals for 2026:
 ✅ Become Strong Cyber Security Basics
