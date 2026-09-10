@@ -1,7 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter & Cross-Platform App Development  
-👯 I’m looking to collaborate on Mobile App Development & Open Source Projects  
-🤝 I’m looking for help Cybersecurity & Networking  
+# 💫 About Me:  
+👯 I’m looking to collaborate on Open Source Projects  
+🤝 I’m looking for help related to Cybersecurity & Networking  
 🌱 I’m currently learning Cybersecurity, Computer Networking & Cloud Basics  
 💬 Ask me about C++, Flutter, Firebase & App Development  
 
